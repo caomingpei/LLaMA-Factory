@@ -1,4 +1,7 @@
 {
+  "airdrop": {
+    "file_name": "fine-data.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },
