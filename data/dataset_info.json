@@ -2,6 +2,9 @@
   "airdrop": {
     "file_name": "fine-data.json"
   },
+  "airdrop_webpage": {
+    "file_name": "classify_fine.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },
